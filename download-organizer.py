@@ -1,4 +1,5 @@
 # Download Organizer
+# Add your directory paths on lines 10 and 13-15.
 import os
 import time
 import shutil
